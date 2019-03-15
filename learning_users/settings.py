@@ -28,7 +28,7 @@ SECRET_KEY = 'crms&v0i2kvgvkcp$*e%)gs8*g+!@h8i65-0&^79d-!)_d5f$0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["maksimuc24.pythonanywhere.com"]
 
 
 # Application definition
